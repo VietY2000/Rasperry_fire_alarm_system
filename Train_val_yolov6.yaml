@@ -1,0 +1,5 @@
+train: /content/drive/MyDrive/YOLOv6_COLAB/FIRE_SMOKE_DATA/images/Train
+val: /content/drive/MyDrive/YOLOv6_COLAB/FIRE_SMOKE_DATA/images/Val
+is_coco: False
+nc: 2
+names: ['FIRE','SMOKE']
